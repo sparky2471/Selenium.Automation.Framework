@@ -1,0 +1,21 @@
+﻿{
+  "EnvironmentSettings": {
+    "AUT": "https://google.com  "
+  },
+  "SeleniumSettings": {
+    "Browser": "Chrome",
+    "ImplicitWaitTimeOut": "10",
+    "PageLoadTimeout": "30",
+    "WebDriverPath": "",
+    "UseHeadlessMode": "False",
+    "KeepSessionAlive": "False"
+  },
+  "ReportSettings": {
+    "ReportingPath": "",
+    "FileName": "automation-testing-report",
+    "Title": "Testing Report",
+    "Enabled": "True",
+    "SaveScreenshots": "Always",
+    "Theme": "Light"
+  }
+}

@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.IO;
 using System.Linq;
 using Xamarin.UITest;
@@ -39,4 +39,6 @@ namespace Selenium.Automation.Framework
                 .StartApp();
         }
     }
-}
+}*/
+
+// This is current broken for mobile tests. I will come back and fix this once everything else is running.

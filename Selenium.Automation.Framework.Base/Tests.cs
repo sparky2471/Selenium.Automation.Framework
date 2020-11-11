@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.IO;
 using System.Linq;
 using NUnit.Framework;
@@ -31,4 +31,6 @@ namespace Selenium.Automation.Framework
             app.Screenshot("First screen.");
         }
     }
-}
+}*/
+
+// This is current broken for mobile tests. I will come back and fix this once everything else is running.

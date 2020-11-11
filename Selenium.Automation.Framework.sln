@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.Framework.Base", "Selenium.Automation.Framework\Selenium.Automation.Framework.Base.csproj", "{9CB757FD-540E-4B4A-9DB9-A565C4CFC50D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Automation.Framework.Base", "Selenium.Automation.Framework.Base2\Selenium.Automation.Framework.Base.csproj", "{F87BC469-6423-402B-8B77-F40E3C131610}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9CB757FD-540E-4B4A-9DB9-A565C4CFC50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9CB757FD-540E-4B4A-9DB9-A565C4CFC50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9CB757FD-540E-4B4A-9DB9-A565C4CFC50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9CB757FD-540E-4B4A-9DB9-A565C4CFC50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87BC469-6423-402B-8B77-F40E3C131610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87BC469-6423-402B-8B77-F40E3C131610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87BC469-6423-402B-8B77-F40E3C131610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87BC469-6423-402B-8B77-F40E3C131610}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
