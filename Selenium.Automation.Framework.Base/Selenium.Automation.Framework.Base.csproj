@@ -29,5 +29,6 @@
   <ItemGroup>
     <Folder Include="Helpers\" />
     <Folder Include="FileIO\" />
+    <Folder Include="Enums\" />
   </ItemGroup>
 </Project>
